@@ -1,5 +1,5 @@
 import { AuditModel } from './audit.model';
-export declare class TicketTypeModel {
+export class RoleModel {
     id: string;
     name: string;
     audit: AuditModel;

@@ -1,6 +1,6 @@
 import { AuditModel } from './audit.model';
 import { ProductTypeModel } from './product-type.model';
-export declare class ProductModel {
+export class ProductModel {
     id: string;
     name: string;
     audit: AuditModel;

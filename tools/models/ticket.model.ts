@@ -3,7 +3,7 @@ import { AuditModel } from "./audit.model";
 import { InventoryModel } from "./inventory.model";
 import { TicketTypeModel } from "./ticket-type.model";
 import { UserModel } from "./user.model";
-export declare class TicketModel {
+export class TicketModel {
     id: string;
     name: string;
     description: string;

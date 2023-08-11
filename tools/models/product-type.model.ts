@@ -1,5 +1,5 @@
 import { AuditModel } from "./audit.model";
-export declare class ActivityTypeModel {
+export class ProductTypeModel {
     id: string;
     name: string;
     audit: AuditModel;

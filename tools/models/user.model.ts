@@ -1,7 +1,7 @@
 import { AuditModel } from './audit.model';
 import { GroupModel } from './group.model';
 import { RoleModel } from './role.model';
-export declare class UserModel {
+export class UserModel {
     id: string;
     name: string;
     surname: string;
