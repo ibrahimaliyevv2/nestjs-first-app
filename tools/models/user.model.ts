@@ -8,7 +8,7 @@ export class UserModel {
     image: string;
     email: string;
     password: string;
-    birthDate: Date;
+    birthDay: Date;
     audit: AuditModel;
     roles: RoleModel[];
     groups: GroupModel[];
